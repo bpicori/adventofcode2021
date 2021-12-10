@@ -88,5 +88,5 @@ function binaryToDecimal(b) {
     }
     return sum;
 }
-
+console.log(main1())
 console.log(main2())
